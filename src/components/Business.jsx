@@ -1,5 +1,5 @@
 import React from "react";
-import { features } from "../constants";
+import { features } from "../constants/Index";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
